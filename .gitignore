@@ -1,0 +1,11 @@
+target/
+.idea/
+.idea_modules/
+felix-cache*
+.DS_store
+main/src/main/resources/firehose.conf
+_mb*/
+.history
+*.swp
+*.iml
+logs/
