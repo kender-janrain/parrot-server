@@ -2,7 +2,6 @@ package janrain.jedi.parrot
 
 import akka.actor.{Props, Actor, ActorSystem}
 import spray.can.Http
-import spray.http._
 import akka.io.IO
 import spray.http.HttpRequest
 import spray.http.HttpResponse
